@@ -1,0 +1,17 @@
+.message {
+    height: 90vh;
+    position: fixed;
+    top: 50px;
+    padding: 20px;
+    overflow: auto;
+    font-family: Tinafont, sans-serif;
+    color: white;
+    & h3 {
+        color: white;
+    }
+
+    & p {
+        color: white;
+    }
+
+}
