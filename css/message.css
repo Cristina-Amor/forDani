@@ -4,19 +4,19 @@
     top: 50px;
     padding: 20px;
     overflow: auto;
-    font-family: Tinafont, sans-serif;
+    font-family: 'Tinafont', sans-serif;
     color: white;
-    & h3 {
-        color: white;
-    }
+}
 
-    & p {
-        color: white;
-    }
+.message h3 {
+    color: white;
+}
 
+.message p {
+    color: white;
 }
 
 @font-face {
-    font-family: 'Tinafont', sans-serif;
-    src: url("/Tinafont-Regular.ttf") format("truetype");
+    font-family: 'Tinafont';
+    src: url("./Tinafont-Regular.ttf") format("truetype");
 }
