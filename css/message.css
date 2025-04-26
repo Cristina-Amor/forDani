@@ -15,3 +15,8 @@
     }
 
 }
+
+@font-face {
+    font-family: 'Tinafont', sans-serif;
+    src: url("/Tinafont-Regular.ttf") format("truetype");
+}
